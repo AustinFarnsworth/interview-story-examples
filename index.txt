@@ -1,0 +1,24 @@
+Stories For Potential Interviews About Learning To Code. 
+
+Story Ideas 
+- Learning how to take an array and shuffle it to compare with the old array. 
+- Building a tic tac toe board and experience with the DOM
+- Building a grocery app and learning about apis
+- 
+
+I was building a gift exchange generator where you type in names and add them to a list 
+for the gift exchange. Then you click random to randomly get paired with someone in from 
+that list. It was kinda challenging logic for me being new to javascript. What i ended 
+up doing was saving all the names typed in the input into an array. Then using a shuffling
+algothrim that basically looped through the array backwards and pulled out a random element
+from the array, saving it to a new array. And then looping through the array again but
+exluding that element it just pulled out untill it pulls out all the elements in a random 
+order. At that point i was able to take that new array and display it in HTML to compare 
+with the original list. 
+
+One of my very first projects was making a tic tac toe board. I had no clue what the DOM
+was when i was trying to build that. All i knew is that you had to grab elements from the 
+HTML page and do something with it. This project took me a lot longer than i should have 
+but now i feel more confident in being able to grab a certain element by id, class, or query
+and manipulate them using functions. It was fun to learn how to add and delete elements 
+with the DOM.  
